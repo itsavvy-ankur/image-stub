@@ -12,4 +12,14 @@
   itemBarcode: "9876"
 ```
 
-## dgdf
+## Running from command line
+
+`go run main.go -imgconfig=<path to yaml config>`
+
+## Building executable
+
+* `go build  -o imagestub.exe`
+
+## Running executable
+
+* `.\imagestub.exe`
